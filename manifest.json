@@ -1,0 +1,38 @@
+{
+  "name": "Alumni MTsN 1 Cirebon",
+  "short_name": "Alumni MTsN 1 Cirebon",
+  "start_url": "https://www.mtsn1cirebon.my.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Blog yang berisi foto Alumni Alumni MTsN 1 Cirebon 1994.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBQhGEbdkLM4_ZelFjOtFrMq2MSh_EiB7nPzkN_qQw8ROkbjumyj_ZdEoUVQM93raLq-BE3GlUSMEwG3ZEu5UhKY3fxVIeEB3ljCecYfTQr_JCnlkOmcAdImVLf158XR8BQbTtg6M3fDb2sFUk1xLi0uAfAmxUb6mfhqxN4WE3lJEzT-Fiv0KSFx0XcA=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBQhGEbdkLM4_ZelFjOtFrMq2MSh_EiB7nPzkN_qQw8ROkbjumyj_ZdEoUVQM93raLq-BE3GlUSMEwG3ZEu5UhKY3fxVIeEB3ljCecYfTQr_JCnlkOmcAdImVLf158XR8BQbTtg6M3fDb2sFUk1xLi0uAfAmxUb6mfhqxN4WE3lJEzT-Fiv0KSFx0XcA=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBQhGEbdkLM4_ZelFjOtFrMq2MSh_EiB7nPzkN_qQw8ROkbjumyj_ZdEoUVQM93raLq-BE3GlUSMEwG3ZEu5UhKY3fxVIeEB3ljCecYfTQr_JCnlkOmcAdImVLf158XR8BQbTtg6M3fDb2sFUk1xLi0uAfAmxUb6mfhqxN4WE3lJEzT-Fiv0KSFx0XcA=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBQhGEbdkLM4_ZelFjOtFrMq2MSh_EiB7nPzkN_qQw8ROkbjumyj_ZdEoUVQM93raLq-BE3GlUSMEwG3ZEu5UhKY3fxVIeEB3ljCecYfTQr_JCnlkOmcAdImVLf158XR8BQbTtg6M3fDb2sFUk1xLi0uAfAmxUb6mfhqxN4WE3lJEzT-Fiv0KSFx0XcA=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBQhGEbdkLM4_ZelFjOtFrMq2MSh_EiB7nPzkN_qQw8ROkbjumyj_ZdEoUVQM93raLq-BE3GlUSMEwG3ZEu5UhKY3fxVIeEB3ljCecYfTQr_JCnlkOmcAdImVLf158XR8BQbTtg6M3fDb2sFUk1xLi0uAfAmxUb6mfhqxN4WE3lJEzT-Fiv0KSFx0XcA=s168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBQhGEbdkLM4_ZelFjOtFrMq2MSh_EiB7nPzkN_qQw8ROkbjumyj_ZdEoUVQM93raLq-BE3GlUSMEwG3ZEu5UhKY3fxVIeEB3ljCecYfTQr_JCnlkOmcAdImVLf158XR8BQbTtg6M3fDb2sFUk1xLi0uAfAmxUb6mfhqxN4WE3lJEzT-Fiv0KSFx0XcA=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBQhGEbdkLM4_ZelFjOtFrMq2MSh_EiB7nPzkN_qQw8ROkbjumyj_ZdEoUVQM93raLq-BE3GlUSMEwG3ZEu5UhKY3fxVIeEB3ljCecYfTQr_JCnlkOmcAdImVLf158XR8BQbTtg6M3fDb2sFUk1xLi0uAfAmxUb6mfhqxN4WE3lJEzT-Fiv0KSFx0XcA=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
